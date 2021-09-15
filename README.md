@@ -1,1 +1,1 @@
-# autofilterv2bot
+# bot/__main__.py
